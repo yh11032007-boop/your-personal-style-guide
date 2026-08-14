@@ -35,7 +35,7 @@ function ProductPage() {
         <div className="border border-border/60 bg-card">
           <img
             src={product.image}
-            alt={`${product.name} 100ml parfum bottle`}
+            alt={`${product.name} 100ml chess-piece parfum bottle`}
             width={1024}
             height={1280}
             className="h-full w-full object-cover"
@@ -85,7 +85,7 @@ function ProductPage() {
               <div className="overflow-hidden border border-border/60 bg-card">
                 <img
                   src={p.image}
-                  alt={`${p.name} 100ml parfum bottle`}
+                  alt={`${p.name} 100ml chess-piece parfum bottle`}
                   loading="lazy"
                   width={1024}
                   height={1280}

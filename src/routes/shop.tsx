@@ -30,7 +30,7 @@ function Shop() {
             <div className="overflow-hidden border border-border/60 bg-card">
               <img
                 src={p.image}
-                alt={`${p.name} 100ml parfum bottle`}
+                alt={`${p.name} 100ml chess-piece parfum bottle`}
                 loading="lazy"
                 width={1024}
                 height={1280}
