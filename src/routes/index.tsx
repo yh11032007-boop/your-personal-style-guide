@@ -27,7 +27,7 @@ function Index() {
       <section className="relative">
         <img
           src={hero}
-          alt="Sarkar parfum bottle on dark stone"
+          alt="Sarkar chess-piece parfum bottles on dark stone"
           width={1920}
           height={1088}
           className="h-[70vh] w-full object-cover md:h-[85vh]"
@@ -77,7 +77,7 @@ function Index() {
               <div className="overflow-hidden border border-border/60 bg-card">
                 <img
                   src={p.image}
-                  alt={`${p.name} 100ml parfum bottle`}
+                  alt={`${p.name} 100ml chess-piece parfum bottle`}
                   loading="lazy"
                   width={1024}
                   height={1280}
